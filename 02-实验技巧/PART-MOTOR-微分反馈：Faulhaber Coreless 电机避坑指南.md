@@ -32,4 +32,5 @@ Faulhaber, Coreless 电机, 2338S006, 半实物仿真, PID 控制, 自动化控�
 ---
 
 ## 图片
-![电机1](./images-part/#PART-motor-Faulhaber 2338S006.png)
+
+![电机1](../images-part/#PART-motor-Faulhaber-2338S006.png)
